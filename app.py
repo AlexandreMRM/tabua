@@ -4,7 +4,7 @@ import json
 from datetime import datetime, time
 import os
 
-st.set_page_config(page_title="🌊 Conversor de Tábuas de Maré", page_icon="🌊", layout="wide")
+st.set_page_config(page_title="🌊 Conversor Tábuas de Maré", page_icon="🌊", layout="wide")
 
 JSON_PATH = "tabua.json"
 LOCAL_PADRAO = "Porto de Cabedelo - PB"
